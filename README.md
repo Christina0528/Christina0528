@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Christina0528
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning programming languages
